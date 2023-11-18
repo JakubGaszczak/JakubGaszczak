@@ -16,8 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-</a>
+ [<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode" width="48">](https://code.visualstudio.com/)
+
 </p>
 
