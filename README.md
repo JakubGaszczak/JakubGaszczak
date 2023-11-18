@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Node.js, Typescript, ...**
 
+- ⚡ Fun fact **I have my own clothing brand https://dream4cars.pl**
+
 - 📫 How to reach me **jakub.gaszczak2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
