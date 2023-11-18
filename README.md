@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, Typescript, ...**
 
-- ⚡  Fun fact **I have my own clothing brand https://dream4cars.pl**
+-  ⚡ Fun fact **I have my own clothing brand https://dream4cars.pl**
 
 - 📫 How to reach me **jakub.gaszczak2000@gmail.com**
 
@@ -16,7 +16,30 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode" width="48">
+ <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode" width="40">
+<!-- HTML5 -->
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40">
+
+<!-- CSS3 -->
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40">
+
+<!-- Bootstrap -->
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40">
+
+<!-- Sass -->
+<img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="40">
+
+<!-- JavaScript -->
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40">
+
+<!-- React -->
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40">
+
+<!-- TypeScript -->
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40">
+
+<!-- Node.js -->
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40">
 
 </p>
 
