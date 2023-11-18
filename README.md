@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, Typescript, ...**
 
-- ⚡ Fun fact **I have my own clothing brand https://dream4cars.pl**
+- ⚡  Fun fact **I have my own clothing brand https://dream4cars.pl**
 
 - 📫 How to reach me **jakub.gaszczak2000@gmail.com**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- [<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode" width="48">](https://code.visualstudio.com/)
+ <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode" width="48">
 
 </p>
 
