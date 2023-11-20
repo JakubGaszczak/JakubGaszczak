@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Gąszczak</h1>
 <h3 align="center">A passionate frontend developer from Zabrze, Poland</h3>
 
-- 🔭 I’m currently working on [RECCLY_Sluby]([https://github.com/JakubGaszczak/MERN-Ecommerce](https://github.com/JakubGaszczak/RECCLY_Sluby))
+- 🔭 I’m currently working on [RECCLY_Sluby](https://github.com/JakubGaszczak/RECCLY_Sluby)
 
 - 🌱 I’m currently learning **Node.js, Typescript, ...**
 
