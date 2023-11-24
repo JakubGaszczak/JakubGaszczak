@@ -26,14 +26,14 @@
 <!-- Bootstrap -->
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40">
 
-<!-- Sass -->
-<img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="40">
-
 <!-- JavaScript -->
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40">
 
 <!-- React -->
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40">
+
+<!-- Redux -->
+<img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40">
 
 <!-- TypeScript -->
 <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40">
